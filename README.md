@@ -1,2 +1,2 @@
 # PersonalProjects
-some programs I coded on my own
+some programs I coded with coding experts on the StackOverflow, Github, personal Blog, etc...
